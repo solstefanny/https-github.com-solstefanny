@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a Business Administrator specializing in proc
 <p>🌍 <b>Based in</b>: Colombia</p>
 <p>🎓 <b>Business Administrator</b> 
 <p>💻 <b>QA Engineer</b>
-<p>🔍 <b>Background in healthcare processes</b>, bringing a detail-oriented mindset to software quality</p>
+
 
 
 <p>🚀 <b>Technical excellence driven by strategic management and continuous improvement</b></p>
@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I am a Business Administrator specializing in proc
 
 #### **Quality Assurance & Software Testing**
 <p align="left">
-  <img src="https://img.shields.io/badge/Software_Testing-0052CC?style=flat-square&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manual_Testing-0052CC?style=flat-square&logo=testrail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Requirements_Analysis-007ACC?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual_Functional_Testing-0052CC?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test_Case_Design_&_Execution-0052CC?style=flat-square&logo=testrail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bug_Detection_&_Tracking-D14836?style=flat-square&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requirements_Analysis_&_Acceptance_Criteria-007ACC?style=flat-square&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bug_Reporting-D14836?style=flat-square&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile_Methodologies-FF9900?style=flat-square&logo=scrum-alliance&logoColor=white" />
 </p>
 
@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I am a Business Administrator specializing in proc
   <img src="https://img.shields.io/badge/Process_Auditing-FFB900?style=flat-square&logo=analytics&logoColor=black" />
   <img src="https://img.shields.io/badge/Data_Validation-4CAF50?style=flat-square&logo=airtable&logoColor=white" />
   <img src="https://img.shields.io/badge/Regulatory_Compliance-000000?style=flat-square&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel_Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
 #### **Soft Skills & Professional Value**
@@ -44,3 +43,14 @@ Welcome to my GitHub profile! I am a Business Administrator specializing in proc
   <img src="https://img.shields.io/badge/Problem_Solving-512BD4?style=flat-square" />
   <img src="https://img.shields.io/badge/Effective_Communication-512BD4?style=flat-square" />
 </p>
+
+<hr>
+
+### 📂 Explore My Work
+<p align="left">
+  <b>I invite you to explore my professional portfolio!</b> Here you will find detailed case studies where I apply my expertise in quality assurance and business processes.
+</p>
+
+<a href="https://www.notion.so/Portafolio-2d1a4804c01c8195a275ded658b56373?source=copy_link" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
